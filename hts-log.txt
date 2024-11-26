@@ -1,0 +1,82 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 26 Nov 2024 14:46:00 at https://jaiswaltravel.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+Narmada
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://jaiswaltravel.com/ -O1 "C:\Users\shiva\Desktop\narmada" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+14:46:32	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/img/favicon.ico (from https://jaiswaltravel.com/)
+
+14:46:46	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/home/u479373626/domains/nepaltempletour.com/public_html/wp-content/fonts/open-sans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2 (from https://jaiswaltravel.com/)
+
+14:46:46	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/home/u479373626/domains/nepaltempletour.com/public_html/wp-content/fonts/open-sans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2 (from https://jaiswaltravel.com/)
+
+14:46:46	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/home/u479373626/domains/nepaltempletour.com/public_html/wp-content/fonts/open-sans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2 (from https://jaiswaltravel.com/)
+
+14:46:46	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/home/u479373626/domains/nepaltempletour.com/public_html/wp-content/fonts/open-sans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2 (from https://jaiswaltravel.com/)
+
+14:46:46	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/home/u479373626/domains/nepaltempletour.com/public_html/wp-content/fonts/open-sans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2 (from https://jaiswaltravel.com/)
+
+14:46:46	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/home/u479373626/domains/nepaltempletour.com/public_html/wp-content/fonts/open-sans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2 (from https://jaiswaltravel.com/)
+
+14:46:46	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/home/u479373626/domains/nepaltempletour.com/public_html/wp-content/fonts/open-sans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2 (from https://jaiswaltravel.com/)
+
+14:46:46	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/home/u479373626/domains/nepaltempletour.com/public_html/wp-content/fonts/open-sans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2 (from https://jaiswaltravel.com/)
+
+14:46:47	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cpolyline points='0,18 12,6 24,18 '/%3E%3C/svg%3E" (from https://jaiswaltravel.com/)
+
+14:46:52	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/gyanvidigital.com (from https://jaiswaltravel.com/)
+
+14:46:54	Error: 	"Not Found" (404) at link https://globalnepaltrip.com/wp-content/plugins/bosa-elementor-for-woocommerce/assets/css/owl.video.play.png (from https://globalnepaltrip.com/wp-content/plugins/bosa-elementor-for-woocommerce/assets/css/owl-carousel-min.css?ver=6.5.5)
+
+14:46:54	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/t (from https://globalnepaltrip.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.3)
+
+14:46:54	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/popper.js (from https://globalnepaltrip.com/wp-content/themes/bosa/assets/bootstrap/js/bootstrap.min.js?ver=0.8)
+
+14:46:54	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/e (from https://globalnepaltrip.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.9.17)
+
+14:46:54	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/-negative.svg (from https://globalnepaltrip.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.20.4)
+
+14:46:54	Warning: 	Moved Permanently for https://jaiswaltravel.com/OPR/
+
+14:46:54	Warning: 	File has moved from https://jaiswaltravel.com/OPR/ to https://jaiswaltravel.com/OPR
+
+14:46:54	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/image/blog/blog1.jpg (from https://jaiswaltravel.com/blog-gride)
+
+14:46:54	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/image/blog/blog2.webp (from https://jaiswaltravel.com/blog-gride)
+
+14:46:54	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/image/blog/blog3.webp (from https://jaiswaltravel.com/blog-gride)
+
+14:46:54	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/image/blog/blog4.jpg (from https://jaiswaltravel.com/blog-gride)
+
+14:46:54	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/image/blog/blog5.jpg (from https://jaiswaltravel.com/blog-gride)
+
+14:46:54	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/image/blog/blog6.jpg (from https://jaiswaltravel.com/blog-gride)
+
+14:46:54	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/image/blog/blog7.jpg (from https://jaiswaltravel.com/blog-gride)
+
+14:46:54	Error: 	"Not Found" (404) at link https://jaiswaltravel.com/image/blog/blog8.jpg (from https://jaiswaltravel.com/blog-gride)
+
+14:46:54	Warning: 	Moved Permanently for https://jaiswaltravel.com/Moment Timezone requires Moment.js. See https://momentjs.com/timezone/docs/
+
+14:46:54	Warning: 	File has moved from https://jaiswaltravel.com/Moment Timezone requires Moment.js. See https://momentjs.com/timezone/docs/ to https://jaiswaltravel.com/Moment%20Timezone%20requires%20Moment.js.%20See%20https://momentjs.com/timezone/docs
+
+14:46:54	Error: 	"Error when decompressing" (-1) at link https://jaiswaltravel.com/OPR (from https://jaiswaltravel.com/OPR/)
+
+14:46:54	Error: 	"Error when decompressing" (-1) at link https://jaiswaltravel.com/Moment Timezone requires Moment.js. See https://momentjs.com/timezone/docs (from https://jaiswaltravel.com/Moment Timezone requires Moment.js. See https://momentjs.com/timezone/docs/)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 54 seconds : 195 links scanned, 165 files written (9965566 bytes overall) [7447776 bytes received at 137921 bytes/sec], 3951981 bytes transferred using HTTP compression in 106 files, ratio 25%, 11.4 requests per connection
+
+(26 errors, 4 warnings, 0 messages)
+
